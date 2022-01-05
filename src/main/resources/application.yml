@@ -1,0 +1,7 @@
+db:
+  connectionString: "mongodb+srv://username:password@host"
+  dbname: TMF
+  defaultLimit: 100
+spring:
+  jackson:
+    default-property-inclusion: non_null
